@@ -1,0 +1,7 @@
+Please, copy all the files into the following folder (you will need to create it):
+
+$HOME/NVIDIA_GPU_Computing_SDK/C/common/counterslib
+
+Run the script to compile it (you will need to have installed the "ar" application, associated to the GNU "binutils" package).
+
+./compile.sh
